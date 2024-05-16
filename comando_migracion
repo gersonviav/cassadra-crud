@@ -1,0 +1,2 @@
+dsbulk load -url /home/ger/Documentos/calidadAire.csv -k gersonvillugas -t aire --schema.mapping "Estacion=estacion,Fecha=fecha,Periodo=periodo,BEN=ben,CO=co,dd=dd,HR=hr,latitud=latitud,LL=ll,longitud=longitud,MXIL=mxil,NO=no,NO2=no2,O3=o3,PM10=pm10,PM25=pm25,PRB=prb,RS=rs,SO2=so2,Titulo=titulo,TMP=tmp,TOL=tol,vv=vv"
+
